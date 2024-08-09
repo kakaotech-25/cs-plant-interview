@@ -14,7 +14,7 @@ cs 의 씨앗을 심기 위한 레포지토리 🌱
 - [프로세스 정의와 상태]()
 - [파일시스템]()
 - [세마포어 & 뮤텍스]()
-- [데드락(DeadLock) 과 해결방법 4가지]()
+- [데드락(DeadLock) 과 해결방법 4가지](https://github.com/kakaotech-25/cs-plant-interview/blob/main/OS/%EB%8D%B0%EB%93%9C%EB%9D%BD(DeadLock)%20%EA%B3%BC%20%ED%95%B4%EA%B2%B0%EB%B0%A9%EB%B2%95%204%EA%B0%80%EC%A7%80.md)
 - [페이지 교체 알고리즘]()
 
 ### 📡 네트워크
