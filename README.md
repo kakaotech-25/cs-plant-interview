@@ -12,7 +12,7 @@ cs 의 인터뷰를 대비하기 위한 레포지토리
 
 - [스레드의 정의와 멀티스레딩]()
 - [프로세스 정의와 상태]()
-- [파일시스템]()
+- [파일시스템](https://github.com/kakaotech-25/cs-plant-interview/blob/main/OS/%ED%8C%8C%EC%9D%BC%EC%8B%9C%EC%8A%A4%ED%85%9C/%ED%8C%8C%EC%9D%BC%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EA%B0%9C%EC%9A%94.md)
 - [세마포어 & 뮤텍스]()
 - [데드락(DeadLock) 과 해결방법 4가지](https://github.com/kakaotech-25/cs-plant-interview/blob/main/OS/%EB%8D%B0%EB%93%9C%EB%9D%BD(DeadLock)%20%EA%B3%BC%20%ED%95%B4%EA%B2%B0%EB%B0%A9%EB%B2%95%204%EA%B0%80%EC%A7%80.md)
 - [페이지 교체 알고리즘]()
