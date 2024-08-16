@@ -36,7 +36,56 @@ cs 의 인터뷰를 대비하기 위한 레포지토리
 
 ### 📡 네트워크
 
+- TCP 와 UDP
+- TLS/SSL handshake
+- HTTP & HTTPS
+- 로드 밸런싱 (Load Balancing)
+- 프록시 서버
+- Blocking, Non-blocking & Synchronous, Asynchronous
+- OSI 7계층
+- REST API + RESTful
+- DNS + 웹 통신 흐름 / CA
+- 네트워크 기기
+- SOAP
+- 쿠키와 세션
+- SOPS-CORS
+
 ### 📦 데이터베이스
+
+- 키(Key)
+- SQL - JOIN
+- SQL Injection
+- RDBMS(SQL) vs NOSQL
+- 정규화 (Normalization) + ERD
+- O/S(Anomaly)
+- 인덱스(INDEX)
+- 트랜잭션(Transaction)
+- 저장 프로시저(Stored PROCEDURE)
+- 레디스(Redis)
+- 클러스터링과 레플리케이션
+- 파티셔닝과 샤딩
+- DB Locking
+- DB의 Connection Pool
+- Trigger
+- Elastic Search
+- MongoDB에 대해서 간단히 설명해주세요.
+- CAP 이론과, Eventual Consistency
 
 ### 📂 자료구조
 
+- 시간복잡도
+- Array & LinkedList
+- 스택(Stack) & 큐(Queue)
+- 힙(Heap)
+- 트리(Tree)
+- 이진탐색트리(Binary Search Tree)
+- 해시(Hash)
+- 트라이(Trie)
+- B-Tree & B+Tree
+- Red-Black 트리
+- 그래프
+- 완전탐색
+- 그리디 알고리즘
+- 암호화 알고리즘
+- 피보나치 수열
+- DFS, BFS
