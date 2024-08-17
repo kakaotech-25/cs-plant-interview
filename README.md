@@ -32,7 +32,7 @@ cs 의 인터뷰를 대비하기 위한 레포지토리
 - 파일 시스템 
 - TLB(Translation Lookaside Buffers)
 - ILB (Internal Load Balancer) 내부 네트워크에서만 사용되는 로드밸런서
-- 동기와 비동기의 차이(블로킹, 넌블로킹)
+- [동기와 비동기의 차이(블로킹, 넌블로킹)](https://github.com/kakaotech-25/cs-plant-interview/blob/main/OS/%EB%8F%99%EA%B8%B0%EC%99%80%20%EB%B9%84%EB%8F%99%EA%B8%B0%EC%9D%98%20%EC%B0%A8%EC%9D%B4(%EB%B8%94%EB%A1%9C%ED%82%B9%EA%B3%BC%20%EB%84%8C%EB%B8%94%EB%A1%9C%ED%82%B9).md)
 
 ### 📡 네트워크
 
