@@ -18,7 +18,7 @@ cs 의 인터뷰를 대비하기 위한 레포지토리
 - [페이지 교체 알고리즘](https://github.com/kakaotech-25/cs-plant-interview/blob/main/OS/%ED%8E%98%EC%9D%B4%EC%A7%80%20%EA%B5%90%EC%B2%B4%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.md)
 - 프로세스 주소 공간, 가상 주소 ⇒ 물리 주소 변환(Address Translation)
 - 인터럽트(Interrupt), 시스템 콜(System Call)
-- PCB와 Context Switching
+- [PCB와 Context Switching](https://github.com/kakaotech-25/cs-plant-interview/blob/main/OS/PCB와%20Context%20Switching.md)
 - IPC (Inter Process Communication) 
 - CPU 스케줄링
 - Race Condition 
