@@ -16,20 +16,15 @@ cs 의 인터뷰를 대비하기 위한 레포지토리
 - [세마포어 & 뮤텍스]()
 - [데드락(DeadLock) 과 해결방법 4가지](https://github.com/kakaotech-25/cs-plant-interview/blob/main/OS/%EB%8D%B0%EB%93%9C%EB%9D%BD(DeadLock)%20%EA%B3%BC%20%ED%95%B4%EA%B2%B0%EB%B0%A9%EB%B2%95%204%EA%B0%80%EC%A7%80.md)
 - [페이지 교체 알고리즘](https://github.com/kakaotech-25/cs-plant-interview/blob/main/OS/%ED%8E%98%EC%9D%B4%EC%A7%80%20%EA%B5%90%EC%B2%B4%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.md)
-- 프로세스 vs 스레드 
-- 멀티프로세스 vs 멀티스레딩 
 - 프로세스 주소 공간, 가상 주소 ⇒ 물리 주소 변환(Address Translation)
 - 인터럽트(Interrupt), 시스템 콜(System Call)
 - PCB와 Context Switching
 - IPC (Inter Process Communication) 
 - CPU 스케줄링
-- 데드락(DeadLock) 
 - Race Condition 
-- 스핀락, 세마포어(Semaphore) & 뮤텍스(Mutex) 
-- 페이징 & 세그먼테이션 
-- 페이지 교체 알고리즘 
+- 스핀락
+- 페이징 & 세그먼테이션  
 - 메모리(Memory) 
-- 파일 시스템 
 - TLB(Translation Lookaside Buffers)
 - ILB (Internal Load Balancer) 내부 네트워크에서만 사용되는 로드밸런서
 - [동기와 비동기의 차이(블로킹, 넌블로킹)](https://github.com/kakaotech-25/cs-plant-interview/blob/main/OS/%EB%8F%99%EA%B8%B0%EC%99%80%20%EB%B9%84%EB%8F%99%EA%B8%B0%EC%9D%98%20%EC%B0%A8%EC%9D%B4(%EB%B8%94%EB%A1%9C%ED%82%B9%EA%B3%BC%20%EB%84%8C%EB%B8%94%EB%A1%9C%ED%82%B9).md)
