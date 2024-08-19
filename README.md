@@ -24,7 +24,7 @@ cs 의 인터뷰를 대비하기 위한 레포지토리
 - Race Condition 
 - 스핀락
 - [페이징 & 세그먼테이션](https://github.com/kakaotech-25/cs-plant-interview/blob/main/OS/%ED%8E%98%EC%9D%B4%EC%A7%80%EC%99%80%20%EC%84%B8%EA%B7%B8%EB%A8%BC%ED%85%8C%EC%9D%B4%EC%85%98.md) 
-- 메모리(Memory) 
+- [메모리(Memory)](https://github.com/kakaotech-25/cs-plant-interview/blob/main/OS/%EB%A9%94%EB%AA%A8%EB%A6%AC.md)
 - TLB(Translation Lookaside Buffers)
 - ILB (Internal Load Balancer) 내부 네트워크에서만 사용되는 로드밸런서
 - [동기와 비동기의 차이(블로킹, 넌블로킹)](https://github.com/kakaotech-25/cs-plant-interview/blob/main/OS/%EB%8F%99%EA%B8%B0%EC%99%80%20%EB%B9%84%EB%8F%99%EA%B8%B0%EC%9D%98%20%EC%B0%A8%EC%9D%B4(%EB%B8%94%EB%A1%9C%ED%82%B9%EA%B3%BC%20%EB%84%8C%EB%B8%94%EB%A1%9C%ED%82%B9).md)
