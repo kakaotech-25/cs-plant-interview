@@ -19,7 +19,7 @@ cs 의 인터뷰를 대비하기 위한 레포지토리
 - 프로세스 주소 공간, 가상 주소 ⇒ 물리 주소 변환(Address Translation)
 - 인터럽트(Interrupt), 시스템 콜(System Call)
 - [PCB와 Context Switching](https://github.com/kakaotech-25/cs-plant-interview/blob/main/OS/PCB와%20Context%20Switching.md)
-- IPC (Inter Process Communication) 
+- [IPC](https://github.com/kakaotech-25/cs-plant-interview/blob/main/OS/IPC.md) 
 - CPU 스케줄링
 - Race Condition 
 - 스핀락
