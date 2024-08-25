@@ -16,7 +16,7 @@ cs 의 인터뷰를 대비하기 위한 레포지토리
 - [세마포어 & 뮤텍스]()
 - [데드락(DeadLock) 과 해결방법 4가지](https://github.com/kakaotech-25/cs-plant-interview/blob/main/OS/%EB%8D%B0%EB%93%9C%EB%9D%BD(DeadLock)%20%EA%B3%BC%20%ED%95%B4%EA%B2%B0%EB%B0%A9%EB%B2%95%204%EA%B0%80%EC%A7%80.md)
 - [페이지 교체 알고리즘](https://github.com/kakaotech-25/cs-plant-interview/blob/main/OS/%ED%8E%98%EC%9D%B4%EC%A7%80%20%EA%B5%90%EC%B2%B4%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.md)
-- 인터럽트(Interrupt), 시스템 콜(System Call)
+- [인터럽트(Interrupt), 시스템 콜(System Call)](https://github.com/kakaotech-25/cs-plant-interview/blob/main/OS/%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%BD%9C%EA%B3%BC%20%EC%9D%B8%ED%84%B0%EB%9F%BD%ED%8A%B8.md)
 - [PCB와 Context Switching](https://github.com/kakaotech-25/cs-plant-interview/blob/main/OS/PCB와%20Context%20Switching.md)
 - [IPC](https://github.com/kakaotech-25/cs-plant-interview/blob/main/OS/IPC.md) 
 - [CPU 스케줄링](https://github.com/kakaotech-25/cs-plant-interview/blob/main/OS/CPU%20%EC%8A%A4%EC%BC%80%EC%A4%84%EB%A7%81.md)
