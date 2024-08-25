@@ -21,7 +21,7 @@ cs 의 인터뷰를 대비하기 위한 레포지토리
 - [IPC](https://github.com/kakaotech-25/cs-plant-interview/blob/main/OS/IPC.md) 
 - [CPU 스케줄링](https://github.com/kakaotech-25/cs-plant-interview/blob/main/OS/CPU%20%EC%8A%A4%EC%BC%80%EC%A4%84%EB%A7%81.md)
 - Race Condition 
-- 스핀락
+- [스핀락](https://github.com/kakaotech-25/cs-plant-interview/blob/main/OS/%EC%8A%A4%ED%95%80%EB%9D%BD.md)
 - [페이징 & 세그먼테이션](https://github.com/kakaotech-25/cs-plant-interview/blob/main/OS/%ED%8E%98%EC%9D%B4%EC%A7%80%EC%99%80%20%EC%84%B8%EA%B7%B8%EB%A8%BC%ED%85%8C%EC%9D%B4%EC%85%98.md) 
 - [메모리(Memory)](https://github.com/kakaotech-25/cs-plant-interview/blob/main/OS/%EB%A9%94%EB%AA%A8%EB%A6%AC.md)
 - TLB(Translation Lookaside Buffers)
