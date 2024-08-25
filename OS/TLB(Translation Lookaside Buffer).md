@@ -8,8 +8,8 @@
 - 실행될때마다 새로운 페이지 테이블에 접근하는 과정을 반복하는 것은 프로세스 실행 속도 면에 있어서 큰 오버헤드이다. 이를 해결하기 위해 TLB가 사용된다.
 
 ## 작동방식
+<img width="482" alt="image" src="https://github.com/user-attachments/assets/0c52cd16-e0d3-4cef-afd5-b7dff77c2d60">
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/4b465a33-1ee4-4c6a-82cb-c03d5c9664fc/b1d7e4d6-e098-48cd-a01e-6bb36573d663/image.png)
 
 - CPU에서 논리 주소를 생성하면, 해당 페이지 번호가 TLB에 전달됨
     - TLB는 `참조 지역성`이라는 개념을 기반으로 한다
