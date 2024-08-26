@@ -13,18 +13,18 @@ cs 의 인터뷰를 대비하기 위한 레포지토리
 - [스레드의 정의와 멀티스레딩](https://github.com/kakaotech-25/cs-plant-interview/blob/main/OS/스레드의%20정의와%20멀티스레딩.md)
 - [프로세스 정의와 상태]()
 - [파일시스템](https://github.com/kakaotech-25/cs-plant-interview/blob/main/OS/%ED%8C%8C%EC%9D%BC%EC%8B%9C%EC%8A%A4%ED%85%9C/%ED%8C%8C%EC%9D%BC%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EA%B0%9C%EC%9A%94.md)
-- [세마포어 & 뮤텍스]()
+- [세마포어 & 뮤텍스](https://github.com/kakaotech-25/cs-plant-interview/blob/main/OS/%EC%84%B8%EB%A7%88%ED%8F%AC%EC%96%B4%20%26%20%EB%AE%A4%ED%85%8D%EC%8A%A4.md)
 - [데드락(DeadLock) 과 해결방법 4가지](https://github.com/kakaotech-25/cs-plant-interview/blob/main/OS/%EB%8D%B0%EB%93%9C%EB%9D%BD(DeadLock)%20%EA%B3%BC%20%ED%95%B4%EA%B2%B0%EB%B0%A9%EB%B2%95%204%EA%B0%80%EC%A7%80.md)
 - [페이지 교체 알고리즘](https://github.com/kakaotech-25/cs-plant-interview/blob/main/OS/%ED%8E%98%EC%9D%B4%EC%A7%80%20%EA%B5%90%EC%B2%B4%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.md)
 - [인터럽트(Interrupt), 시스템 콜(System Call)](https://github.com/kakaotech-25/cs-plant-interview/blob/main/OS/%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%BD%9C%EA%B3%BC%20%EC%9D%B8%ED%84%B0%EB%9F%BD%ED%8A%B8.md)
 - [PCB와 Context Switching](https://github.com/kakaotech-25/cs-plant-interview/blob/main/OS/PCB와%20Context%20Switching.md)
 - [IPC](https://github.com/kakaotech-25/cs-plant-interview/blob/main/OS/IPC.md) 
 - [CPU 스케줄링](https://github.com/kakaotech-25/cs-plant-interview/blob/main/OS/CPU%20%EC%8A%A4%EC%BC%80%EC%A4%84%EB%A7%81.md)
-- Race Condition 
+- [Race Condition](https://github.com/kakaotech-25/cs-plant-interview/blob/main/OS/%EA%B2%BD%EC%9F%81%EC%A1%B0%EA%B1%B4.md)
 - [스핀락](https://github.com/kakaotech-25/cs-plant-interview/blob/main/OS/%EC%8A%A4%ED%95%80%EB%9D%BD.md)
 - [페이징 & 세그먼테이션](https://github.com/kakaotech-25/cs-plant-interview/blob/main/OS/%ED%8E%98%EC%9D%B4%EC%A7%80%EC%99%80%20%EC%84%B8%EA%B7%B8%EB%A8%BC%ED%85%8C%EC%9D%B4%EC%85%98.md) 
 - [메모리(Memory)](https://github.com/kakaotech-25/cs-plant-interview/blob/main/OS/%EB%A9%94%EB%AA%A8%EB%A6%AC.md)
-- TLB(Translation Lookaside Buffers)
+- [TLB(Translation Lookaside Buffers)](https://github.com/kakaotech-25/cs-plant-interview/blob/main/OS/TLB(Translation%20Lookaside%20Buffer).md)
 - [동기와 비동기의 차이(블로킹, 넌블로킹)](https://github.com/kakaotech-25/cs-plant-interview/blob/main/OS/%EB%8F%99%EA%B8%B0%EC%99%80%20%EB%B9%84%EB%8F%99%EA%B8%B0%EC%9D%98%20%EC%B0%A8%EC%9D%B4(%EB%B8%94%EB%A1%9C%ED%82%B9%EA%B3%BC%20%EB%84%8C%EB%B8%94%EB%A1%9C%ED%82%B9).md)
 
 ### 📡 네트워크
