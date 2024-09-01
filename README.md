@@ -53,7 +53,7 @@ cs 의 인터뷰를 대비하기 위한 레포지토리
 - 정규화 (Normalization) + ERD
 - O/S(Anomaly)
 - 인덱스(INDEX)
-- 트랜잭션(Transaction)
+- [트랜잭션(Transaction)](https://github.com/kakaotech-25/cs-plant-interview/blob/main/DB/%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98.md)
 - 저장 프로시저(Stored PROCEDURE)
 - 레디스(Redis)
 - 클러스터링과 레플리케이션
