@@ -50,7 +50,7 @@ cs 의 인터뷰를 대비하기 위한 레포지토리
 - SQL - JOIN
 - SQL Injection
 - RDBMS(SQL) vs NOSQL
-- 정규화 (Normalization) + ERD
+- [정규화 (Normalization)](https://github.com/kakaotech-25/cs-plant-interview/blob/main/DB/%EC%A0%95%EA%B7%9C%ED%98%95.md) + ERD
 - O/S(Anomaly)
 - 인덱스(INDEX)
 - [트랜잭션(Transaction)](https://github.com/kakaotech-25/cs-plant-interview/blob/main/DB/%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98.md)
