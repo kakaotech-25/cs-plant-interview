@@ -36,7 +36,7 @@ cs 의 인터뷰를 대비하기 위한 레포지토리
 - [ILB(Internal Load Balancer)](https://github.com/kakaotech-25/cs-plant-interview/blob/main/Network/ILB.md)
 - 프록시 서버
 - Blocking, Non-blocking & Synchronous, Asynchronous
-- OSI 7계층
+- [OSI 7계층(https://github.com/kakaotech-25/cs-plant-interview/blob/main/Network/OSI%207%EA%B3%84%EC%B8%B5.md)]
 - REST API + RESTful
 - DNS + 웹 통신 흐름 / CA
 - 네트워크 기기
