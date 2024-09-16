@@ -78,7 +78,7 @@ cs 의 인터뷰를 대비하기 위한 레포지토리
 - B-Tree & B+Tree
 - Red-Black 트리
 - 그래프
-- 완전탐색
+- [완전탐색](https://github.com/kakaotech-25/cs-plant-interview/blob/main/Data%20Structure/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89.md)
 - 그리디 알고리즘
 - 암호화 알고리즘
 - 피보나치 수열
