@@ -38,8 +38,8 @@ def dfs(graph, start, visited):
 ```
 
 ### 시간 복잡도
-> O(N)   
-> N: 데이터의 개수
+> O(V + E)   
+> V: 노드 수, E: 간선 수
 
 
 ## BFS(Breadth-First Search)
@@ -83,8 +83,8 @@ def bfs(graph, start, visited):
 ```
 
 ### 시간 복잡도
-> O(N)   
-> N: 데이터의 개수
+> O(V + E)   
+> V: 노드 수, E: 간선 수
 
 ![img](https://github.com/user-attachments/assets/0b86efbb-27bc-450a-a986-de452ca7253e)
 
