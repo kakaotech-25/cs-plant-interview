@@ -3,15 +3,18 @@
 - 키는 데이터베이스 테이블에서 각 레코드를 유일하게 식별할 수 있도록 해주는 값이다.
 - 키는 데이터의 중복을 방지하고, 테이블 간의 관계를 설정하는 데 중요한 역할을 한다.
 
-최소성 : **키를 구성하는 속성들 중 꼭 필요한 최소한의 속성들로만 키를 구성하는 성질**
+```
+- 최소성 : **키를 구성하는 속성들 중 꼭 필요한 최소한의 속성들로만 키를 구성하는 성질**
 
  즉, 키를 구성하는 속성들 중 일부가 없어도 해당 키가 여전히 유일하게 각 튜플을 식별할 수 있다면, 그 키는 최소성을 갖지 못한 것이다. 최소성을 갖추기 위해서는 각 속성이 필수적으로 키에 포함되어야 하고, 불필요한 속성은 제외되어야 한다.
 
-유일성 :  **하나의 키값으로 튜플을 유일하게 식별할 수 있는 성질**
+- 유일성 :  **하나의 키값으로 튜플을 유일하게 식별할 수 있는 성질**
 
 즉, 어떤 키 값이 주어졌을 때, 해당 값으로 오직 하나의 레코드만 찾을 수 있어야 한다는 것이니다. 유일성을 갖춘 키는 테이블 내에서 중복된 값을 가질 수 없으며, 각 레코드를 고유하게 식별할 수 있다.
+```
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/4b465a33-1ee4-4c6a-82cb-c03d5c9664fc/be5fe198-bd11-49d8-baea-826da18c48db/image.png)
+<img width="590" alt="image" src="https://github.com/user-attachments/assets/4f628e0e-2749-4067-8648-e3804b1fc412">
+
 
 ### Super key(슈퍼키)
 
@@ -64,7 +67,8 @@
 - 너무 많은 컬럼을 포함하면 성능에 영향을 줄 수 있으므로 필요 최소한의 컬럼으로 구성하는 것이 좋다
 - ex.
     
-    ![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/4b465a33-1ee4-4c6a-82cb-c03d5c9664fc/5aa9f3e0-7930-4ef2-b287-c278dbb7a0e5/image.png)
+     <img width="550" alt="image" src="https://github.com/user-attachments/assets/f8544143-e05a-4c9b-9301-d5fefef8885c">
+
     
     - `학생ID + 강의ID`
 
@@ -75,7 +79,8 @@
     - **참조 무결성**: 외래 키 값은 반드시 참조하는 테이블의 기본 키 값과 일치해야 한다.
 - ex.
     
-    ![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/4b465a33-1ee4-4c6a-82cb-c03d5c9664fc/54356064-ddd0-4f21-a7f0-3fa9460a03e4/image.png)
+    <img width="550" alt="image" src="https://github.com/user-attachments/assets/fab32371-9f38-4fd8-b314-2202158a2598">
+
     
     - `학생ID`, `강의ID`
 
