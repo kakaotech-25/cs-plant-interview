@@ -55,7 +55,7 @@ cs 의 인터뷰를 대비하기 위한 레포지토리
 - 인덱스(INDEX)
 - [트랜잭션(Transaction)](https://github.com/kakaotech-25/cs-plant-interview/blob/main/DB/%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98.md)
 - 저장 프로시저(Stored PROCEDURE)
-- 레디스(Redis)
+- [레디스(Redis)](https://github.com/kakaotech-25/cs-plant-interview/blob/main/DB/%EB%A0%88%EB%94%94%EC%8A%A4.md)
 - 클러스터링과 레플리케이션
 - 파티셔닝과 샤딩
 - DB Locking
@@ -70,7 +70,7 @@ cs 의 인터뷰를 대비하기 위한 레포지토리
 - 시간복잡도
 - Array & LinkedList
 - 스택(Stack) & 큐(Queue)
-- 힙(Heap)
+- [힙(Heap)](https://github.com/kakaotech-25/cs-plant-interview/blob/main/Data%20Structure/heap.md)
 - 트리(Tree)
 - 이진탐색트리(Binary Search Tree)
 - 해시(Hash)
