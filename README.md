@@ -75,7 +75,7 @@ cs 의 인터뷰를 대비하기 위한 레포지토리
 - 이진탐색트리(Binary Search Tree)
 - 해시(Hash)
 - 트라이(Trie)
-- B-Tree & B+Tree
+- [B-Tree & B+Tree](https://haon.blog/database/index-basic/)
 - Red-Black 트리
 - 그래프
 - [완전탐색](https://github.com/kakaotech-25/cs-plant-interview/blob/main/Data%20Structure/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89.md)
