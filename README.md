@@ -41,7 +41,7 @@ cs 의 인터뷰를 대비하기 위한 레포지토리
 - DNS + 웹 통신 흐름 / CA
 - 네트워크 기기
 - SOAP
-- 쿠키와 세션
+- [쿠키와 세션](https://github.com/kakaotech-25/cs-plant-interview/blob/main/Network/쿠키와%20세션.md)
 - SOPS-CORS
 
 ### 📦 데이터베이스
@@ -82,4 +82,4 @@ cs 의 인터뷰를 대비하기 위한 레포지토리
 - 그리디 알고리즘
 - 암호화 알고리즘
 - 피보나치 수열
-- DFS, BFS
+- [DFS, BFS](https://github.com/kakaotech-25/cs-plant-interview/blob/main/Data Structure/DFS%26BFS.md)
