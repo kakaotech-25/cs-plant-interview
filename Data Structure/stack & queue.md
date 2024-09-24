@@ -1,6 +1,7 @@
 # 1. Stack
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/4b465a33-1ee4-4c6a-82cb-c03d5c9664fc/176059c5-9373-4b1e-b9dc-4ac0d71d4e28/image.png)
+<img width="559" alt="image" src="https://github.com/user-attachments/assets/ffeb525b-ec9c-46b8-aad7-c0e7752ffaaf">
+
 
 - LIFO(Last In First Out) 구조
 - 가장 마지막에 저장된 데이터가 가장 먼저 삭제, 한쪽 방향에서만 데이터의 삽입과 삭제가 가능함
@@ -86,25 +87,29 @@
 3. 종류
     1. linear queue : 데이터를 FIFO 순서로 처리하는 가장 기본적인 큐
         
-        ![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/4b465a33-1ee4-4c6a-82cb-c03d5c9664fc/298bb45b-9311-42a9-b7fd-0930c226653b/image.png)
-        
+        <img width="492" alt="image" src="https://github.com/user-attachments/assets/3cbb6b0c-6c3e-4d92-8612-7116e045372c">
+
     2. 원형 큐 : 큐의 마지막 요소가 첫 요소와 연결된 큐로, 원형으로 순환
         
-        ![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/4b465a33-1ee4-4c6a-82cb-c03d5c9664fc/87208ef0-a641-40ba-8b45-d117af2357be/image.png)
+        <img width="497" alt="image" src="https://github.com/user-attachments/assets/a3456a77-22f5-4106-82d8-f54431c70029">
+
         
     3. 우선순위 큐 : 각 데이터 요소에 우선순위를 할당하고 해당 우선순위에 따라 데이터를 처리하는 큐
         
-        ![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/4b465a33-1ee4-4c6a-82cb-c03d5c9664fc/64314606-de9d-4bb7-ad8d-53ad1107ed07/image.png)
+        <img width="497" alt="image" src="https://github.com/user-attachments/assets/acf54c19-a5dd-45db-ab5b-b4bc55271261">
+
         
 4. 시간 복잡도
     
-    ![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/4b465a33-1ee4-4c6a-82cb-c03d5c9664fc/bba22a19-923f-48fa-890e-8283f3d71422/image.png)
+    <img width="529" alt="image" src="https://github.com/user-attachments/assets/6161a959-ebf0-48a8-881d-d90efac4d86a">
+
     
     - 삽입, 삭제시에는 O(1), 탐색에는 O(n)의 시간복잡도를 갖는다.
 
 ### Deque
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/4b465a33-1ee4-4c6a-82cb-c03d5c9664fc/68d9524d-8c1d-4a36-b9c0-8753bb77a556/image.png)
+<img width="529" alt="image" src="https://github.com/user-attachments/assets/a4a1cc8c-cbeb-4e79-900d-432c40205c6e">
+
 
 - 큐 2개를 겹쳐놓은것과 같아 Double ended Queue라고 부른다.
 - 양쪽에서 데이터의 입출력이 모드 가능한 자료구조
@@ -116,6 +121,4 @@
     - 스택, 큐와 같이 데이터의 삽입과 삭제에 O(1)의 시간복잡도
     - python에서 list의 pop(0)은 시간복잡도가 O(n) 인데 반해, deque의 popleft는 O(1) 이기 때문에 성능 향상된다.
 
-참고
-
-https://velog.io/@moonblue/스택Stack-과-큐Queue
+[참고](!https://velog.io/@moonblue/스택Stack-과-큐Queue)
