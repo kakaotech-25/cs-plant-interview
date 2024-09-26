@@ -34,7 +34,7 @@ cs 의 인터뷰를 대비하기 위한 레포지토리
 - HTTP & HTTPS
 - 로드 밸런싱 (Load Balancing)
 - [ILB(Internal Load Balancer)](https://github.com/kakaotech-25/cs-plant-interview/blob/main/Network/ILB.md)
-- 프록시 서버
+- [프록시 서버](https://github.com/kakaotech-25/cs-plant-interview/blob/main/Network/프록시서버.md)
 - Blocking, Non-blocking & Synchronous, Asynchronous
 - [OSI 7계층](https://github.com/kakaotech-25/cs-plant-interview/blob/main/Network/OSI%207%EA%B3%84%EC%B8%B5.md)
 - REST API + RESTful
