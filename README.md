@@ -31,7 +31,7 @@ cs 의 인터뷰를 대비하기 위한 레포지토리
 
 - TCP 와 UDP
 - TLS/SSL handshake
-- HTTP & HTTPS
+- [HTTP & HTTPS](https://github.com/kakaotech-25/cs-plant-interview/blob/main/Network/HTTP%EC%99%80%20HTTPS.md)
 - 로드 밸런싱 (Load Balancing)
 - [ILB(Internal Load Balancer)](https://github.com/kakaotech-25/cs-plant-interview/blob/main/Network/ILB.md)
 - [프록시 서버](https://github.com/kakaotech-25/cs-plant-interview/blob/main/Network/프록시서버.md)
