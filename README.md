@@ -31,10 +31,10 @@ cs 의 인터뷰를 대비하기 위한 레포지토리
 
 - TCP 와 UDP
 - TLS/SSL handshake
-- HTTP & HTTPS
+- [HTTP & HTTPS](https://github.com/kakaotech-25/cs-plant-interview/blob/main/Network/HTTP%EC%99%80%20HTTPS.md)
 - 로드 밸런싱 (Load Balancing)
 - [ILB(Internal Load Balancer)](https://github.com/kakaotech-25/cs-plant-interview/blob/main/Network/ILB.md)
-- 프록시 서버
+- [프록시 서버](https://github.com/kakaotech-25/cs-plant-interview/blob/main/Network/프록시서버.md)
 - Blocking, Non-blocking & Synchronous, Asynchronous
 - [OSI 7계층](https://github.com/kakaotech-25/cs-plant-interview/blob/main/Network/OSI%207%EA%B3%84%EC%B8%B5.md)
 - REST API + RESTful
@@ -46,7 +46,7 @@ cs 의 인터뷰를 대비하기 위한 레포지토리
 
 ### 📦 데이터베이스
 
-- 키(Key)
+- [키(Key)](https://github.com/kakaotech-25/cs-plant-interview/blob/main/DB/key.md)
 - SQL - JOIN
 - SQL Injection
 - RDBMS(SQL) vs NOSQL
@@ -69,7 +69,7 @@ cs 의 인터뷰를 대비하기 위한 레포지토리
 
 - 시간복잡도
 - Array & LinkedList
-- 스택(Stack) & 큐(Queue)
+- [스택(Stack) & 큐(Queue)](https://github.com/kakaotech-25/cs-plant-interview/blob/main/Data%20Structure/stack%20%26%20queue.md)
 - [힙(Heap)](https://github.com/kakaotech-25/cs-plant-interview/blob/main/Data%20Structure/heap.md)
 - 트리(Tree)
 - 이진탐색트리(Binary Search Tree)
