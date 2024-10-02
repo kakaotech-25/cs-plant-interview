@@ -47,7 +47,7 @@ cs 의 인터뷰를 대비하기 위한 레포지토리
 ### 📦 데이터베이스
 
 - [키(Key)](https://github.com/kakaotech-25/cs-plant-interview/blob/main/DB/key.md)
-- SQL - JOIN
+- [SQL - JOIN](https://github.com/kakaotech-25/cs-plant-interview/blob/main/DB/SQL%20JOIN.md)
 - SQL Injection
 - RDBMS(SQL) vs NOSQL
 - [정규화 (Normalization)](https://github.com/kakaotech-25/cs-plant-interview/blob/main/DB/%EC%A0%95%EA%B7%9C%ED%98%95.md) + ERD
